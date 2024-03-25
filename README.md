@@ -1,5 +1,3 @@
-# Privacy Policy for Chrome Extensions
-No data or personal information is collected by my Chrome extensions.
+# Privacy policies for my projects
 
-Contact
-If you have any questions or suggestions regarding this privacy policy, do not hesitate to contact me.
+I don't collect any personal information, so most of the policies are almost identical.
